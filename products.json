@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": "SW-001",
+      "title": "Swadeshi Whole Wheat Atta 10kg",
+      "description": "Stone-ground whole wheat flour made in India",
+      "link": "https://swadeshiwebsite.com/products/atta-10kg",
+      "image_link": "https://swadeshiwebsite.com/images/atta.jpg",
+      "availability": "in_stock",
+      "price": "17.99 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-002",
+      "title": "Swadeshi Basmati Rice 5kg",
+      "description": "Premium long grain basmati rice from India",
+      "link": "https://swadeshiwebsite.com/products/basmati-rice",
+      "image_link": "https://swadeshiwebsite.com/images/rice.jpg",
+      "availability": "in_stock",
+      "price": "21.99 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-003",
+      "title": "Swadeshi Cold Pressed Groundnut Oil 1L",
+      "description": "Traditional cold-pressed groundnut oil",
+      "link": "https://swadeshiwebsite.com/products/groundnut-oil",
+      "image_link": "https://swadeshiwebsite.com/images/oil.jpg",
+      "availability": "in_stock",
+      "price": "9.99 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-004",
+      "title": "Swadeshi Turmeric Powder 200g",
+      "description": "High curcumin turmeric powder sourced from Indian farms",
+      "link": "https://swadeshiwebsite.com/products/turmeric",
+      "image_link": "https://swadeshiwebsite.com/images/turmeric.jpg",
+      "availability": "in_stock",
+      "price": "4.49 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-005",
+      "title": "Swadeshi Red Chilli Powder 200g",
+      "description": "Sun-dried red chilli powder with rich color and flavor",
+      "link": "https://swadeshiwebsite.com/products/red-chilli",
+      "image_link": "https://swadeshiwebsite.com/images/chilli.jpg",
+      "availability": "in_stock",
+      "price": "4.99 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-006",
+      "title": "Swadeshi Handmade Agarbatti Pack",
+      "description": "Natural incense sticks made using traditional methods",
+      "link": "https://swadeshiwebsite.com/products/agarbatti",
+      "image_link": "https://swadeshiwebsite.com/images/agarbatti.jpg",
+      "availability": "in_stock",
+      "price": "3.49 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-007",
+      "title": "Swadeshi Herbal Soap Pack of 3",
+      "description": "Chemical-free herbal soaps made in India",
+      "link": "https://swadeshiwebsite.com/products/herbal-soap",
+      "image_link": "https://swadeshiwebsite.com/images/soap.jpg",
+      "availability": "in_stock",
+      "price": "6.99 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-008",
+      "title": "Swadeshi Jaggery Powder 1kg",
+      "description": "Natural sugarcane jaggery with no additives",
+      "link": "https://swadeshiwebsite.com/products/jaggery",
+      "image_link": "https://swadeshiwebsite.com/images/jaggery.jpg",
+      "availability": "in_stock",
+      "price": "5.49 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-009",
+      "title": "Swadeshi Filter Coffee Powder 500g",
+      "description": "South Indian filter coffee blend",
+      "link": "https://swadeshiwebsite.com/products/coffee",
+      "image_link": "https://swadeshiwebsite.com/images/coffee.jpg",
+      "availability": "in_stock",
+      "price": "7.99 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    },
+    {
+      "id": "SW-010",
+      "title": "Swadeshi Brass Pooja Lamp",
+      "description": "Traditional handmade brass oil lamp for pooja",
+      "link": "https://swadeshiwebsite.com/products/brass-lamp",
+      "image_link": "https://swadeshiwebsite.com/images/lamp.jpg",
+      "availability": "in_stock",
+      "price": "14.99 USD",
+      "brand": "Swadeshi",
+      "condition": "new"
+    }
+  ]
+}
